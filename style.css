@@ -79,7 +79,7 @@ a { color: var(--accent); }
 }
 .role {
   font-weight: 500;
-  font-size: 1rem;
+  font-size: 0.938rem;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--accent);
@@ -216,7 +216,7 @@ a { color: var(--accent); }
   color: var(--muted);
   margin: 18px 0 6px;
 }
-.details ul { margin: 0; padding-left: 18px; }
+.details ul { margin: 0; padding-left: 18px; font-size: 14px; }
 .details li { margin-bottom: 6px; }
 .details li::marker { color: var(--accent); }
 
